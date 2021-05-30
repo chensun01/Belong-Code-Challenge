@@ -1,7 +1,7 @@
 # Belong-Code-Challenge
 This repository is for Belong code challenge.
 
-##Architecture
+## Architecture
 BelongCCStack.yml is the solution CloudForamtion template for generating and managing AWS resources. 
 
 The following diagram demonstrates the overall infrastructure layout.
@@ -13,7 +13,7 @@ Developers can use CCEC2PUB as a bastion to access CCEC2PRI with the same Key.
 The given webpage is hosted on the private instance while it can be accessed by the public through the CCEC2PUB's public DNS or IP address.
 
 
-##Deployment
+## Deployment
 1. **Option 1**
 The template can be deployed by creating a new stack on AWS cloudformation console
 Note that this template is environment sensitive.
