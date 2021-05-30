@@ -1,3 +1,5 @@
 # Belong-Code-Challenge
 This repository is for code challenge of Belong
-template
+
+
+<img src="https://github.com/chensun01/Belong-Code-Challenge/blob/main/template1-designer.png?raw=true" width="250">
