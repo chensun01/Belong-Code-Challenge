@@ -1,7 +1,7 @@
 # Belong-Code-Challenge
-This repository is for code challenge of Belong
+This repository is for Belong code challenge.
 
-This is a template for AWS Cloudformation. The purpose is to complete the automatic deployment of a website.
+This is a YAML template for AWS Cloudformation. The purpose is to complete the automatic deployment of a website.
 
 As follow is the overall architecture of the deployment.
 <img src="https://github.com/chensun01/Belong-Code-Challenge/blob/main/template1-designer.png?raw=true" width="800">
